@@ -5,7 +5,7 @@
  * *
  * *    Description: ping uses ECHO_REQUEST to mandatorily elicit an 
  * *                 ECHO_RESPONSE from a host or gateway.
- * *    Use: ping [-c count] [-i interval] [-p pattern] [-s packet_size]
+ * *    Use: sudo ./ping [-c count] [-i interval] [-p pattern] [-s packet_size]
  * *         [-t TTL] [-W recv_timeout]
  * *    Opts: 
  * *         -c %count
