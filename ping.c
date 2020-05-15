@@ -1,6 +1,4 @@
 /***************************************************************************
- * *    Cloudflare Challenge: Systems
- * *
  * *    Author: David Jorge
  * *
  * *    Description: ping uses ECHO_REQUEST to mandatorily elicit an 
